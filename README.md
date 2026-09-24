@@ -8,4 +8,4 @@ Please clone this repository to your local machine to ensure you have access to 
 
 Get your environment ready, explore the repository, and get ready to build something awesome! 💡
 
-**Happy hacking! 🚀**
+**Happy hacking!🚀**
